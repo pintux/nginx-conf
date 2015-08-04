@@ -7,4 +7,4 @@ For details, see comments inside the configuration files.
 
 `basic`
 
-      `basic-nginx.conf`, a basic HTTP reverse proxy with static files and websockets configuration.
+`---------   basic-nginx.conf`, a basic HTTP reverse proxy with static files and websockets configuration.
